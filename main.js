@@ -1,0 +1,15 @@
+var first_name="Anwesha";
+var last_name="Priyam";
+var name=first_name.concat(last_name);
+console.log(first_name + last_name);
+console.log(name);
+var number1=110;
+var number2=120;
+var add=number1 + number2;
+var subtract=number2 - number1;
+var multiply=number1 * number2;
+var divide=number1 / number2;
+console.log(add);
+console.log(subtract);
+console.log(multiply);
+console.log(divide);
